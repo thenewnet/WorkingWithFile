@@ -1,0 +1,6 @@
+<xml>
+  <Student Id="1" Name="Trung" Phone="09" Mark1="2" Mark2="9" />
+  <Student Id="2" Name="Toan" Phone="0978" Mark1="8" Mark2="2" />
+  <Student Id="1" Name="Trung" Phone="985667525" Mark1="2" Mark2="9" />
+  <Student Id="2" Name="Toan" Phone="985667525" Mark1="7" Mark2="9" />
+</xml>
